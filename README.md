@@ -13,7 +13,7 @@
 
 <strong>Welcome to the introduction of my GitHub profile!</strong>
 </pre>
-<p><em>A Grade 8 Students in <a href="https://tagumcitynhs.ph">Tagum City National High School </a> 😊</br> | September 21, 2021
+<p><em>A Grade 8 Students in <a href="https://tagumcitynhs.ph">Tagum City National High School </a>| September 21, 2021 😊</br> 
 </em>
 
 
