@@ -23,12 +23,11 @@ Welcome to my Github profile! I am Ricky, or commonly known as pineapple which i
 Soon I will be releasing most of my project to be open-source.
 I am the developer of the projects listed in the following:
 
-* **[AtlantaBot](https://github.com/Androz2091/AtlantaBot)**, another Discord BOT  
-* **[Notifications pour Pronote](https://github.com/EduWireApps/pronote-notifications-app)**, an app for French students available on **[iOS](https://apps.apple.com/fr/app/notifications-pour-pronote/id1564109971)** and **[Android](https://play.google.com/store/apps/details?id=com.androz2091.pronote_notifications&gl=FR)**.  
-* **[Discord Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer)**, to extract statistics from your Discord data package
-* **[Scratch For Discord](https://github.com/Androz2091/scratch-for-discord)**, to make a Discord BOT without any coding knowledge
-* **[ManageInvite](https://github.com/manage-invite)**, a +15,000 servers Discord BOT to manage your server invites
-* and more like **[discord-giveaways](https://github.com/Androz2091/discord-giveaways)**, **[discord-player](https://github.com/Androz2091/discord-player)**, **[discord-backup](https://github.com/Androz2091/discord-backup)**, **[discord-logs](https://github.com/Androz2091/discord-logs)**, **[discord-invites-tracker](https://github.com/Androz2091/discord-invites-tracker)**, **[discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)**, **[discord-sync-commands](https://github.com/Androz2091/discord-sync-commands)**... !
+* **[Archion](https://github.com/pnple/pineapplebot)**, another Discord BOT  
+* **[KoalaAI](https://github.com/rodrigoricky)**, a work-in-progress application to help students around the world to learn better and faster!
+* **[rickyMDB](https://github.com/rodrigoricky)**, to easily interact with your MongoDB connections and database needs!
+* **[CoomMC](https://github.com/Androz2091/scratch-for-discord)**, a work-in-progress Minecraft Plugin for SMP type servers.
+* and more like **[rickyAPI](https://github.com/rodrigoricky)**, **[fastyDocs](https://github.com/rodrigoricky)**, **[rickyShop](https://github.com/rodrigoricky)**, **[discord-logs](https://github.com/rodrigoricky)**, **[discord-sniper](https://github.com/rodrigoricky)**, **[applicationBot](https://github.com/rodrigoricky)**, **[virtualMouse](https://github.com/rodrigoricky)**... !
 
 ### Skills & Tools 🖱️
 
