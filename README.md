@@ -31,7 +31,7 @@ I am the developer of the projects listed in the following:
 
 ### Skills & Tools 🖱️
 
-When I need to build things, I usually go for ![vue](https://github.com/Androz2091/Androz2091/raw/main/vue.png) **Vue.js** to code my websites and ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js** with ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** for my bots and APIs. My favorite database is definitely ![postgresql](https://github.com/Androz2091/Androz2091/raw/main/postgresql.png) **PostgreSQL**.![](https://hit.yhype.me/github/profile?user_id=42497995)
+Most of my projects like websites or for my bots, I usually use ![node-js](https://github.com/Androz2091/Androz2091/raw/main/node-js.png) **Node.js**, and ![typescript](https://github.com/Androz2091/Androz2091/raw/main/typescript.png) **TypeScript** sometimes for my bots and APIs. My favorite database is definitely ![mongodb]() **MongoDB** or **Mongoose.**
 
 I love discovering languages or frameworks that increase my productivity for my new projects such as **Svelte**, **Golang**, **Flutter** or tools like **Sentry** so feel free to send me a message with your recommendations on Discord or Twitter! 😁
 
