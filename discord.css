@@ -1858,7 +1858,7 @@
   }
 
   .container-2lgZY8::after {
-    content: "abi on top ❤";
+    content: "</>";
     position: fixed;
     top: 220px;
     bottom: 85px;
