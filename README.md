@@ -13,7 +13,7 @@
 </pre>
 ## Hey there 👋
 
-Welcome to my Github profile! I am Ricky, or commonly known as pineapple which is I call myself in social media like Discord, Twitter, etc., I create things, and most of the time I code and play video games. Also, happy 2022.
+Welcome to my Github profile! I am Ricky, or commonly known as pineapple which is I call myself in social media like Discord, Twitter, etc., I create things, and most of the time I code and play video games.
 
 
 *Sometimes I contribute to open-source projects like Wurst Imperium and other big servers. 📝*
