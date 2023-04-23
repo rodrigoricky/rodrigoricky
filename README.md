@@ -1,7 +1,7 @@
 # 💫 About Me:
 <!---🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 -->
-wait
+I am Ricky, a 15 years old, self-taught programmer, and started when I was 10 years old.
 
 
 ## 🌐 Socials:
