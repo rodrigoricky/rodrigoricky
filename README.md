@@ -13,7 +13,7 @@ Funny how that escalated quickly.
 
 🎯 **Freelancing** › Building systems institutions trust with real data  
 📚 **Student** › 12th grade (homework in drafts, code in production)  
-🏆 **Previous** › Region 11 Rep - National Science & Technology Fair  
+🏆 **Accomplishment** › Last Yr. and Current Region 11 Rep - National Science & Technology Fair  
 
 ### `$ ls projects/`
 
