@@ -29,11 +29,11 @@ Building software for education, healthcare, businesses, and geospatial systems.
 
 ## Experience
 
-- **Software Engineer**  
+- **Software Engineer**  (2026)
   **Tagum City National High School**  
   Built and maintained internal software, including an RFID attendance system used by students and faculty.
 
-- **Freelance Software Developer**  
+- **Freelance Software Developer**  (Present)
   Developed custom software for local businesses, including a point-of-sale system for a convenience store in Tagum City.
 
 ---
@@ -52,11 +52,11 @@ Building software for education, healthcare, businesses, and geospatial systems.
 
 ## Recognition
 
-- Two-time National Science Fair Finalist
-- National Qualifier • AWS Hackathon
-- President • TCNHS Research Club
-- Regional Robotics Finalist
-- Programming Competition Participant
+- Two-time National Science Fair Finalist (2025 & 2026)
+- National Qualifier • AWS Hackathon (Present)
+- President • TCNHS Research Club (2025 & 2026)
+- Regional Robotics Finalist (2026)
+- Multiple Programming Competition Winner
 
 ---
 
