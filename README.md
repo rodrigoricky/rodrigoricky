@@ -29,9 +29,9 @@ Building software for education, healthcare, businesses, and geospatial systems.
 
 ## Experience
 
-- **Software Engineer**  (2026) </br>
+- **Software Engineer**  (2024-2026) </br>
   **Tagum City National High School**  
-  Built and maintained internal software, including an RFID attendance system used by students and faculty.
+  Built and maintained internal software, including an RFID attendance system used by students and faculty. Also worked on ongoing PTA System
 
 - **Freelance Software Developer**  (Present) </br>
   Developed custom software for local businesses, including a point-of-sale system for a convenience store in Tagum City.
